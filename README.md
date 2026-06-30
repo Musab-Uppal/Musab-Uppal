@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=.NET+%26+ASP.NET+Core+Developer+%7C+Clean+Architecture+Enthusiast;Full-Stack+Dev+%7C+React.js+%7C+Next.js+%7C+Angular;Building+Scalable+Backend+Systems+%7C+PUCIT+%7C+3.6+GPA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=.NET+%26+ASP.NET+Core+Developer+%7C+Clean+Architecture+Enthusiast;Creator+of+PUCIT+ResourceHub+%7C+Community+Platform+in+Production;Full-Stack+Dev+%7C+React.js+%7C+Next.js+%7C+Angular;Building+Scalable+Backend+Systems+%7C+PUCIT+%7C+3.6+GPA" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,15 @@ I'm a passionate Software Engineering student at **PUCIT** (3.6 GPA) specializin
 
 ---
 
-## ⭐ LATEST PROJECTS
+## 🌟 FEATURED PROJECT
+
+| 🎓 **PUCIT RESOURCEHUB** — *In Production · Community Used* |
+|---|
+| **[PUCIT ResourceHub](https://github.com/Musab-Uppal/PUCIT-ResourceHub)** <br> A community-driven open-source platform **built by PUCIT students, for PUCIT students** — actively used in production. Students can upload, search, and download past papers, notes, and slides organized by course, semester, and department. Features secure JWT auth, cloud file storage via Cloudinary, and a fast responsive UI. <br><br> ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+
+---
+
+## ⭐ MORE PROJECTS
 
 | 🛒 **E-COMMERCE API** | 👥 **FACEBOOK CLONE** |
 |---|---|
