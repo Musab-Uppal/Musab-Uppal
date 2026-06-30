@@ -7,6 +7,15 @@
 
 ---
 
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Musab-Uppal/Musab-Ismail/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Musab-Uppal/Musab-Ismail/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Musab-Uppal/Musab-Ismail/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a passionate Software Engineering student at **PUCIT** (3.6 GPA) specializing in the **.NET Ecosystem** and Full-Stack Web Development — building scalable backend systems and production-grade web applications.
